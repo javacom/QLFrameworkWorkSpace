@@ -1,0 +1,2 @@
+# QLFrameworkWorkSpace
+QLFrameworkWorkSpace for swift
